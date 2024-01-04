@@ -1,16 +1,19 @@
 body{
     color: #444444;
 }
+/* link style */
 a{
     text-decoration: none;
     color: #ed502e;
 }
+/* list style */
 ul{
     list-style: none;
 }
 .container-b{
     padding-bottom: 60px;
 }
+/* duration class */
 .tran-dur{
     transition-duration: 0.3s!important;
 }

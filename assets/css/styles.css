@@ -214,9 +214,6 @@ nav.fixed-top{
 /* end header */
 
 /* start about */
-.about-list{
-    list-style: none;
-}
 .about-list-icon{
     background: url('https://api.iconify.design/ri/check-double-line.svg?color=%23ed502e&width=20&height=20') no-repeat center center / contain;
     content: url('https://api.iconify.design/ri/check-double-line.svg?color=%23ed502e&width=20&height=20');
@@ -641,7 +638,6 @@ footer{
 .inner-page ol {
     display: flex;
     flex-wrap: wrap;
-    list-style: none;
     padding: 0 0 10px 0;
     margin: 0;
     font-size: 14px;
